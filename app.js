@@ -59,6 +59,6 @@ app.use((err, req, res, next) => {
     res.render('error', err);
 });
 
-app.listen({PORT}, () => {
+app.listen(`0.0.0.0:${PORT}`, () => {
     console.log(`The application is running on ${PORT}`)
 }); 
