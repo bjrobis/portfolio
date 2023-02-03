@@ -59,6 +59,7 @@ app.use((err, req, res, next) => {
     res.render('error', err);
 });
 
+const PORT = process.env.PORT;
 app.listen({PORT}, () => {
     console.log(`The application is running on ${PORT}`)
 }); 
