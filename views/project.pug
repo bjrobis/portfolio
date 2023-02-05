@@ -23,8 +23,8 @@ block content
 
           each technology in technologies
             li #{technology}
-
-        a.btn-link(href=`${demo}`) Live Demo
+        if demo != 'none'
+          a.btn-link(href=`${demo}`) Live Demo
         a.btn-link(href=`${gitHub}`) GitHub Repo
 
     .project-img-box.box

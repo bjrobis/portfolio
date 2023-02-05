@@ -5,7 +5,7 @@
             "project_name": "React & SQL Course Library",
             "description": "Allows user to view courses from an SQL database. When authenicated the user can also create, update, and delete courses from the library. Users can sign-up for an account, and their credentials are encrypted and stored in the database as well.",
             "technologies": ["JavaScript", "React", "SQL", "Rest API"],
-            "live_link": "https://bjrobis.github.io/tech-degree-project-10/",
+            "live_link": "none",
             "github_link": "https://github.com/bjrobis/tech-degree-project-10.git",
             "images_urls": ["/images/1a.jpg", "/images/1b.jpg", "/images/1c.jpg", "/images/1d.jpg", "/images/1e.jpg", "/images/1f.jpg"]
         },
@@ -50,7 +50,7 @@
             "project_name": "SQL Library Manager",
             "description": "An express app that lets user view a database of books. Users are also able to create, update, and delete books from the library.",
             "technologies": ["JavaScript", "Express", "SQL"],
-            "live_link": "https://bjrobis.github.io/tech-degree-project-8/",
+            "live_link": "none",
             "github_link": "https://github.com/bjrobis/tech-degree-project-8.git",
             "images_urls": ["/images/6a.png", "/images/6b.png", "/images/6c.png"]
         },
@@ -59,7 +59,7 @@
             "project_name": "React Gallery App",
             "description": "User can enter a search query that will search images from the flickr api then post the images that match the query to the page. There are also 3 pre-determined searches that the user can click on to use as their search query.",
             "technologies": ["JavaScript", "React", "API"],
-            "live_link": "https://bjrobis.github.io/tech-degree-project-7/",
+            "live_link": "none",
             "github_link": "https://github.com/bjrobis/tech-degree-project-7.git",
             "images_urls": ["/images/2a.png", "/images/2b.png"]
         },
@@ -68,7 +68,7 @@
             "project_name": "Weather App",
             "description": "App either obtains the user's current location or user input to pull the weather data from a weather api, and then render the current weather conditions. The user can then see a 5 day forecast of the selected location by clicking a button.",
             "technologies": ["JavaScript", "React", "API"],
-            "live_link": "https://bjrobis.github.io/weather-App/",
+            "live_link": "none",
             "github_link": "https://github.com/bjrobis/weather-App.git",
             "images_urls": ["/images/8a.png", "/images/8b.png", "/images/8c.png"]
         }
