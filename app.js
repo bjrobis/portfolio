@@ -63,3 +63,7 @@ const PORT = process.env.PORT;
 app.listen(PORT, () => {
     console.log(`The application is running on ${PORT}`)
 }); 
+
+// app.listen(3000, () => {
+//     console.log(`The application is running on port 3000`)
+// }); 

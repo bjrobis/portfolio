@@ -2,21 +2,21 @@
     "projects": [
         {
             "id": "0",
-            "project_name": "Random Quote Generator",
-            "description": "User clicks a button to generate a random quote.",
-            "technologies": ["JavaScript", "HTML", "CSS"],
-            "live_link": "https://bjrobis.github.io/tech-degree-project-1/",
-            "github_link": "https://github.com/bjrobis/tech-degree-project-1.git",
-            "images_urls": ["/images/1a.jpg", "/images/1b.jpg"]
+            "project_name": "React & SQL Course Library",
+            "description": "Allows user to view courses from an SQL database. When authenicated the user can also create, update, and delete courses from the library. Users can sign-up for an account, and their credentials are encrypted and stored in the database as well.",
+            "technologies": ["JavaScript", "React", "SQL", "Rest API"],
+            "live_link": "https://bjrobis.github.io/tech-degree-project-10/",
+            "github_link": "https://github.com/bjrobis/tech-degree-project-10.git",
+            "images_urls": ["/images/1a.jpg", "/images/1b.jpg", "/images/1c.jpg", "/images/1d.jpg", "/images/1e.jpg", "/images/1f.jpg"]
         },
         {
             "id": "1",
-            "project_name": "Student Contact Directory",
-            "description": "Uses data pagination and filtering to add 9 contact cards at a time to a page, and adds navigational keys to the bottom to access the entire library of contact cards.",
-            "technologies": ["JavaScript", "HTML", "CSS"],
-            "live_link": "https://bjrobis.github.io/tech-degree-project-2/",
-            "github_link": "https://github.com/bjrobis/tech-degree-project-2.git",
-            "images_urls": ["/images/2a.jpg", "/images/2b.jpg"]
+            "project_name": "Phaser 'BrickBreak' Game",
+            "description": "A video game built using JavaScript and Phaser. Player moves paddle left and right using arrows on keyboard and tries to knockout as many bricks as possible. It keeps the users running score thoughout the 5 levels.",
+            "technologies": ["JavaScript", "Phaser", "HTML"],
+            "live_link": "https://bjrobis.github.io/BrickBreak/",
+            "github_link": "https://github.com/bjrobis/BrickBreak.git",
+            "images_urls": ["/images/7a.jpg", "/images/7b.jpg", "/images/7c.jpg", "/images/7d.jpg"]
         },
         {
             "id": "2",
@@ -47,12 +47,21 @@
         },
         {
             "id": "5",
-            "project_name": "Matching Game",
-            "description": "A matching game with a Christmas theme. The user clicks a present to unwrap the gift inside, and tries to find a present with an identical gift. Game ends when the presents are all matched.",
-            "technologies": ["JavaScript", "HTML", "CSS"],
-            "live_link": "https://bjrobis.github.io/Matching-Game/",
-            "github_link": "https://github.com/bjrobis/Matching-Game.git",
-            "images_urls": ["/images/6a.jpg", "/images/6b.jpg", "/images/6c.jpg"]
+            "project_name": "SQL Library Manager",
+            "description": "An express app that lets user view a database of books. Users are also able to create, update, and delete books from the library.",
+            "technologies": ["JavaScript", "Express", "SQL"],
+            "live_link": "https://bjrobis.github.io/tech-degree-project-8/",
+            "github_link": "https://github.com/bjrobis/tech-degree-project-8.git",
+            "images_urls": ["/images/6a.png", "/images/6b.png", "/images/6c.png"]
+        },
+        {
+            "id": "6",
+            "project_name": "React Gallery App",
+            "description": "User can enter a search query that will search images from the flickr api then post the images that match the query to the page. There are also 3 pre-determined searches that the user can click on to use as their search query.",
+            "technologies": ["JavaScript", "React", "API"],
+            "live_link": "https://bjrobis.github.io/tech-degree-project-7/",
+            "github_link": "https://github.com/bjrobis/tech-degree-project-7.git",
+            "images_urls": ["/images/2a.png", "/images/2b.png"]
         }
     ]    
 }
