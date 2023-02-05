@@ -62,6 +62,15 @@
             "live_link": "https://bjrobis.github.io/tech-degree-project-7/",
             "github_link": "https://github.com/bjrobis/tech-degree-project-7.git",
             "images_urls": ["/images/2a.png", "/images/2b.png"]
+        },
+        {
+            "id": "7",
+            "project_name": "Weather App",
+            "description": "App either obtains the user's current location or user input to pull the weather data from a weather api, and then render the current weather conditions. The user can then see a 5 day forecast of the selected location by clicking a button.",
+            "technologies": ["JavaScript", "React", "API"],
+            "live_link": "https://bjrobis.github.io/weather-App/",
+            "github_link": "https://github.com/bjrobis/weather-App.git",
+            "images_urls": ["/images/8a.png", "/images/8b.png", "/images/8c.png"]
         }
     ]    
 }
